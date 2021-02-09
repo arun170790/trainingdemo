@@ -9,6 +9,7 @@ public class DemoTest {
 	public void loginwolvi() {
 		System.out.println("wolverine");
 		Assert.assertEquals("1", "1");
+		Assert.assertEquals("2", "3");
 	}
 	
 
